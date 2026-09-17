@@ -10,4 +10,6 @@ https://www.kaggle.com/datasets/raunakgola/kitchenware-object-detection-dataset-
 
 ## Reference
 
-
+```bash
+https://www.youtube.com/watch?v=tMwyxKttZd0&t=230s
+```
