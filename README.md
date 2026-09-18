@@ -2,10 +2,12 @@
 YOLOv9練習
 
 
-<p align="center">
-  <img src="image/democup.gif" width="300" height="200" alt="示範一">
-  <img src="image/demofork.gif" width="300" height="200" alt="示範二">
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="image/democup.gif" width="100%"></td>
+    <td width="50%"><img src="image/demofork.gif" width="100%"></td>
+  </tr>
+</table>
 
 ## Dataset
 
