@@ -1,10 +1,7 @@
 # YOLOv9_practise
 YOLOv9練習
 
-
-<p align="center">
-  <img src="image/democup.gif" width="600" alt="操作示範">
-</p>
+(https://github.com/bdd1121/YOLOv9_practise/blob/main/image/democup.mp4)
 
 ## Dataset
 
