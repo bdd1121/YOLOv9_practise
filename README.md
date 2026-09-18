@@ -1,7 +1,7 @@
 # YOLOv9_practise
 YOLOv9練習
 
-https://github.com/bdd1121/YOLOv9_practise/blob/main/image/demofork.mp4
+![操作示範](image/demofork.gif)
 
 ## Dataset
 
