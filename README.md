@@ -3,9 +3,8 @@ YOLOv9練習
 
 
 <p align="center">
-
-  <img src="image/democup.gif" width="200" height="150" alt="示範二">
-  <img src="image/demofork.gif" width="200" height="150" alt="示範一">
+  <img src="image/democup.gif" width="300" height="200" alt="示範一">
+  <img src="image/demofork.gif" width="2300" height="200" alt="示範二">
 </p>
 
 ## Dataset
